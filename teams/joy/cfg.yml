@@ -1,0 +1,10 @@
+access:
+  include:
+    - admin
+    - read
+  exclude:
+    - write
+
+repos:
+  exclude:
+    - repo2

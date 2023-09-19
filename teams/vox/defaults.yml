@@ -1,0 +1,5 @@
+name: "vox"
+description: "vox team"
+
+repos:
+  allow_auto_merge: true
