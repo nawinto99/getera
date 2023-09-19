@@ -1,7 +1,4 @@
 access:
-  include:
-    - admin
-    - read
   exclude:
     - write
 
