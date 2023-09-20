@@ -1,7 +1,0 @@
-access:
-  exclude:
-    - write
-
-repos:
-  exclude:
-    - repo2
